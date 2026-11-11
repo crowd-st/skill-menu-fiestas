@@ -53,4 +53,4 @@ skill-menu-fiestas/
 
 Las recetas son de sus autores. La skill solo las recomienda y enlaza al vídeo original, citando siempre a quien lo ha hecho.
 
-Las hemos elegido con cariño entre todo el equipo de Crowd Digital.
+Cocinado con amor por Crowd Digital.

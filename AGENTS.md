@@ -12,7 +12,7 @@ Todo el contenido del repo va en **castellano**: documentación, skill, recetas,
 
 Esto es un regalo, no un anuncio. La protagonista es la skill y lo que resuelve; Crowd Digital solo firma.
 
-- **Una sola firma, discreta, por pieza.** La fórmula es que las recetas las ha elegido con cariño todo el equipo de Crowd Digital.
+- **Una sola firma, discreta.** En la landing y en el correo es, literalmente, «Cocinado con amor por Crowd Digital»: una línea pequeña al pie. En el resto de piezas, si hace falta decir algo, que las recetas las ha elegido con cariño todo el equipo.
 - **Nada comercial:** ni servicios, ni casos, ni «contáctanos», ni logotipo grande, ni el nombre en titulares o botones.
 - **La skill no se promociona.** No menciona a Crowd Digital al recomendar; solo lo dice si le preguntan quién la ha hecho.
 - En caso de duda, menos marca.

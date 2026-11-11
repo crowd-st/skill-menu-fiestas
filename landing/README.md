@@ -13,7 +13,7 @@ Que quien llegue entienda en diez segundos qué es y la pruebe en su IA. La pág
 3. **Cómo funciona:** tres pasos (cuéntale quiénes sois, elige el menú, mira los vídeos).
 4. **Ejemplo:** una conversación de muestra con un menú propuesto.
 5. **Los autores:** crédito a quienes han hecho los vídeos.
-6. **Firma:** una línea, al final: las recetas las ha elegido con cariño todo el equipo de Crowd Digital. Sin logotipo grande, sin servicios y sin formulario de contacto.
+6. **Firma:** una línea pequeña, al final: «Cocinado con amor por Crowd Digital». Sin logotipo grande, sin servicios y sin formulario de contacto.
 7. **Pie:** enlace al repo.
 
 ## Requisitos

@@ -6,9 +6,9 @@ El correo de felicitación para clientes: les regalamos la skill y les llevamos 
 
 - **Asunto y preencabezado.**
 - **Saludo:** felicitación breve y personal.
-- **El regalo:** qué es la skill y para qué sirve, en dos o tres frases. Las recetas las hemos elegido con cariño entre todo el equipo.
+- **El regalo:** qué es la skill y para qué sirve, en dos o tres frases.
 - **Botón:** a la landing.
-- **Cierre:** firma del equipo de Crowd Digital.
+- **Firma:** una línea pequeña, al pie: «Cocinado con amor por Crowd Digital».
 
 ## Entregables
 
