@@ -26,7 +26,8 @@
       return {
         id,
         url: `https://www.youtube.com/shorts/${id}`,
-        autor: canal ? canal.getAttribute("href").split("/")[1] : "",
+        // El href viene codificado (@ElComidistaenELPA%C3%8DS): se decodifica.
+        autor: canal ? decodeURIComponent(canal.getAttribute("href").split("/")[1]) : "",
         titulo: texto(video.querySelector("yt-shorts-video-title-view-model")),
         descripcion: "",
         fecha_publicacion: "",
