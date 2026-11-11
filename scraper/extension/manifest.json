@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Menú de fiestas · capturar recetas",
+  "version": "0.1.0",
+  "description": "Añade un botón 🎄 sobre el «me gusta» de los vídeos cortos para guardar la receta en el repo skill-menu-fiestas.",
+  "host_permissions": ["http://127.0.0.1:4747/*"],
+  "background": {
+    "service_worker": "fondo.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["contenido/comun.js", "contenido/youtube.js"],
+      "css": ["contenido/boton.css"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["contenido/comun.js", "contenido/instagram.js"],
+      "css": ["contenido/boton.css"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://www.tiktok.com/*"],
+      "js": ["contenido/comun.js", "contenido/tiktok.js"],
+      "css": ["contenido/boton.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
