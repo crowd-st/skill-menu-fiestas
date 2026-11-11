@@ -8,6 +8,15 @@ Proyecto de Crowd Digital: la felicitación navideña es una skill pública que 
 
 Todo el contenido del repo va en **castellano**: documentación, skill, recetas, textos de la landing, del correo y de redes. Los nombres de carpetas, archivos, columnas y valores controlados van en minúsculas, sin acentos ni `ñ`.
 
+## Tono: Crowd Digital, en segundo plano
+
+Esto es un regalo, no un anuncio. La protagonista es la skill y lo que resuelve; Crowd Digital solo firma.
+
+- **Una sola firma, discreta, por pieza.** La fórmula es que las recetas las ha elegido con cariño todo el equipo de Crowd Digital.
+- **Nada comercial:** ni servicios, ni casos, ni «contáctanos», ni logotipo grande, ni el nombre en titulares o botones.
+- **La skill no se promociona.** No menciona a Crowd Digital al recomendar; solo lo dice si le preguntan quién la ha hecho.
+- En caso de duda, menos marca.
+
 ## Piezas
 
 Cada carpeta tiene un `README.md` con su definición. Léelo antes de trabajar en ella.

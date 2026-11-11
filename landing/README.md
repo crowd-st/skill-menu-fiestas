@@ -4,7 +4,7 @@ Página para presentar la skill y ponerla en marcha con un clic. Es el destino d
 
 ## Objetivo
 
-Que quien llegue entienda en diez segundos qué es, la pruebe en su IA y sepa que es un regalo de Crowd Digital.
+Que quien llegue entienda en diez segundos qué es y la pruebe en su IA. La página habla de la skill, no de nosotros.
 
 ## Secciones
 
@@ -13,7 +13,7 @@ Que quien llegue entienda en diez segundos qué es, la pruebe en su IA y sepa qu
 3. **Cómo funciona:** tres pasos (cuéntale quiénes sois, elige el menú, mira los vídeos).
 4. **Ejemplo:** una conversación de muestra con un menú propuesto.
 5. **Los autores:** crédito a quienes han hecho los vídeos.
-6. **Quién lo hace:** Crowd Digital, la felicitación y el contacto.
+6. **Firma:** una línea, al final: las recetas las ha elegido con cariño todo el equipo de Crowd Digital. Sin logotipo grande, sin servicios y sin formulario de contacto.
 7. **Pie:** enlace al repo.
 
 ## Requisitos
@@ -22,6 +22,7 @@ Que quien llegue entienda en diez segundos qué es, la pruebe en su IA y sepa qu
 - Pensada primero para móvil: la mayoría llegará desde el correo o desde redes.
 - El prompt que copia es `skill/prompt.md`, siempre la versión publicada.
 - Sin formularios ni registro.
+- Crowd Digital aparece una sola vez, en la firma. Ni en la cabecera ni en los botones.
 
 ## Decisiones abiertas
 

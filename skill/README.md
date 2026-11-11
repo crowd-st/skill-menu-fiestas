@@ -50,8 +50,11 @@ La skill tiene que funcionar en la IA que use cada persona (Claude, ChatGPT, Gem
 
 Como la vía universal es pegar un prompt, el catálogo tiene que ser compacto: por eso las recetas van sin cantidades y con los pasos resumidos.
 
+## Tono y firma
+
+Cercano y práctico, como alguien que cocina bien y te echa una mano. La skill no se promociona: no menciona a Crowd Digital al recomendar. Si le preguntan quién la ha hecho, responde que las recetas las ha elegido con cariño todo el equipo de Crowd Digital, y nada más.
+
 ## Decisiones abiertas
 
 - Tamaño máximo del catálogo para que quepa con holgura en un prompt en todas las IA.
 - Si publicamos también un GPT y un Gem, o solo el prompt y la skill de Claude.
-- Tono de la skill: neutro, o con la voz de Crowd Digital.

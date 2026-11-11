@@ -12,7 +12,7 @@ Las piezas para redes sociales: el vídeo de la campaña y las publicaciones que
 
 ## El vídeo
 
-Enseña la skill en uso: alguien pregunta a su IA qué cocinar en Nochebuena, recibe el menú y abre el vídeo de una receta. Termina con la felicitación de Crowd Digital y la dirección de la landing.
+Enseña la skill en uso: alguien pregunta a su IA qué cocinar en Nochebuena, recibe el menú y abre el vídeo de una receta. Termina con la dirección de la landing. Crowd Digital no aparece en el vídeo más allá de la cuenta que lo publica; en el texto de la publicación, como mucho una línea: las recetas las hemos elegido con cariño entre todo el equipo.
 
 ## Entregables
 

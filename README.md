@@ -1,6 +1,6 @@
 # skill-menu-fiestas
 
-🎄 Skill para tu IA favorita que te ayuda a elegir qué cocinar estas navidades, con las recetas en vídeo corto. La felicitación navideña de Crowd Digital.
+🎄 Skill para tu IA favorita que te ayuda a elegir qué cocinar estas navidades, con las recetas en vídeo corto.
 
 > **Estado:** esqueleto y definiciones. Todavía no hay recetas ni código; cada carpeta tiene un `README.md` que define qué irá dentro.
 
@@ -53,4 +53,4 @@ skill-menu-fiestas/
 
 Las recetas son de sus autores. La skill solo las recomienda y enlaza al vídeo original, citando siempre a quien lo ha hecho.
 
-Un proyecto de Crowd Digital.
+Las hemos elegido con cariño entre todo el equipo de Crowd Digital.

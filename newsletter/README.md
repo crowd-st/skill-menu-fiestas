@@ -5,10 +5,10 @@ El correo de felicitación para clientes: les regalamos la skill y les llevamos 
 ## Contenido
 
 - **Asunto y preencabezado.**
-- **Saludo:** felicitación de Crowd Digital, breve.
-- **El regalo:** qué es la skill y para qué sirve, en dos o tres frases.
+- **Saludo:** felicitación breve y personal.
+- **El regalo:** qué es la skill y para qué sirve, en dos o tres frases. Las recetas las hemos elegido con cariño entre todo el equipo.
 - **Botón:** a la landing.
-- **Cierre:** firma del equipo.
+- **Cierre:** firma del equipo de Crowd Digital.
 
 ## Entregables
 
@@ -24,6 +24,7 @@ newsletter/
 - En castellano.
 - Un solo mensaje y un solo botón.
 - Se tiene que leer bien sin imágenes y en móvil.
+- Sin mensaje comercial: ni servicios, ni novedades, ni invitación a contactar. Es una felicitación.
 
 **La lista de destinatarios no va en este repo**, que es público. Tampoco nombres de clientes ni resultados del envío.
 
