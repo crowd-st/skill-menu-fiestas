@@ -4,11 +4,11 @@ La skill `menu-fiestas`: las instrucciones y el catálogo de recetas que una IA 
 
 ## Qué hace
 
-1. **Pregunta lo justo:** qué días cocinas, cuántos sois, si hay niños, restricciones (vegetariano, sin gluten, alergias), estilo (tradicional o con un giro), nivel de cocina y tiempo disponible.
-2. **Propone un menú por día:** aperitivo, entrante, principal y postre, elegidos del catálogo.
-3. **Equilibra el conjunto:** no repite ingrediente principal entre días, combina platos que se preparan con antelación con otros de última hora y ajusta la dificultad al nivel de quien cocina.
-4. **Da la receta de cada plato:** descripción, ingredientes sin cantidades, pasos resumidos, autor y enlace al vídeo.
-5. **Permite cambiar:** «cámbiame el principal de Nochevieja por algo de pescado» y vuelve a proponer.
+1. **Pregunta, de una en una y con opciones numeradas:** qué día, cuántos sois, si os gusta más picar o el plato en la mesa, si hay vegetarianos o veganos, alguna alergia o intolerancia, y si preferís lo tradicional o algo atrevido.
+2. **Propone el menú de cada día:** aperitivos, entrante o sopa, principal y postre, elegidos del catálogo según las respuestas.
+3. **Equilibra el conjunto:** no repite plato ni ingrediente principal entre días, combina lo que se deja hecho la víspera con lo de última hora y respeta dietas y alergias.
+4. **Muestra cada plato con el enlace al vídeo y su autor**, y da la receta (ingredientes sin cantidades y pasos) del que se pida.
+5. **Permite cambiar:** «cámbiame el principal por pescado» y vuelve a proponer.
 
 ## Qué no hace
 
@@ -36,7 +36,13 @@ skill/
 └── prompt.md          Instrucciones y catálogo en un solo archivo (generado)
 ```
 
-`catalogo.md` y `prompt.md` los genera `scripts/generar.py` a partir de `recetas/recetas.tsv`. Todavía no existen.
+`catalogo.md` y `prompt.md` los genera `scripts/generar.py` a partir de `recetas/recetas.tsv`. Después de cambiar la tabla o el `SKILL.md`, hay que volver a generarlos:
+
+```bash
+uv run scripts/generar.py
+```
+
+El prompt completo ocupa unos 16.000 tokens.
 
 ## Cómo llega a cada IA
 
